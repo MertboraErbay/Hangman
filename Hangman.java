@@ -1,5 +1,6 @@
 /**
  * @author Tuna Alikasifoglu
+           Mertbora Erbay 	
  * @version 4 Feb 2018
  */
 public class Hangman
